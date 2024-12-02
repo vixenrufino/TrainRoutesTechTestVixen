@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalTest_VixenRufino", "TechnicalTest_VixenRufino\TechnicalTest_VixenRufino.csproj", "{CAD07FF5-4CDD-4334-937D-F32040CED18D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{F4A457BA-184F-4A66-B891-0EE5D4A7CC97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAD07FF5-4CDD-4334-937D-F32040CED18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD07FF5-4CDD-4334-937D-F32040CED18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD07FF5-4CDD-4334-937D-F32040CED18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD07FF5-4CDD-4334-937D-F32040CED18D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A457BA-184F-4A66-B891-0EE5D4A7CC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A457BA-184F-4A66-B891-0EE5D4A7CC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A457BA-184F-4A66-B891-0EE5D4A7CC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A457BA-184F-4A66-B891-0EE5D4A7CC97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Chen\source\repos\TechnicalTest_VixenRufino\TechnicalTest_VixenRufino\bin\Debug\net8.0\TechnicalTest_VixenRufino.exe
+C:\Users\Chen\source\repos\TechnicalTest_VixenRufino\TechnicalTest_VixenRufino\bin\Debug\net8.0\TechnicalTest_VixenRufino.deps.json
+C:\Users\Chen\source\repos\TechnicalTest_VixenRufino\TechnicalTest_VixenRufino\bin\Debug\net8.0\TechnicalTest_VixenRufino.runtimeconfig.json
+C:\Users\Chen\source\repos\TechnicalTest_VixenRufino\TechnicalTest_VixenRufino\bin\Debug\net8.0\TechnicalTest_VixenRufino.dll
+C:\Users\Chen\source\repos\TechnicalTest_VixenRufino\TechnicalTest_VixenRufino\bin\Debug\net8.0\TechnicalTest_VixenRufino.pdb
+C:\Users\Chen\source\repos\TechnicalTest_VixenRufino\TechnicalTest_VixenRufino\obj\Debug\net8.0\TechnicalTest_VixenRufino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chen\source\repos\TechnicalTest_VixenRufino\TechnicalTest_VixenRufino\obj\Debug\net8.0\TechnicalTest_VixenRufino.AssemblyInfoInputs.cache
+C:\Users\Chen\source\repos\TechnicalTest_VixenRufino\TechnicalTest_VixenRufino\obj\Debug\net8.0\TechnicalTest_VixenRufino.AssemblyInfo.cs
+C:\Users\Chen\source\repos\TechnicalTest_VixenRufino\TechnicalTest_VixenRufino\obj\Debug\net8.0\TechnicalTest_VixenRufino.csproj.CoreCompileInputs.cache
+C:\Users\Chen\source\repos\TechnicalTest_VixenRufino\TechnicalTest_VixenRufino\obj\Debug\net8.0\TechnicalTest_VixenRufino.dll
+C:\Users\Chen\source\repos\TechnicalTest_VixenRufino\TechnicalTest_VixenRufino\obj\Debug\net8.0\refint\TechnicalTest_VixenRufino.dll
+C:\Users\Chen\source\repos\TechnicalTest_VixenRufino\TechnicalTest_VixenRufino\obj\Debug\net8.0\TechnicalTest_VixenRufino.pdb
+C:\Users\Chen\source\repos\TechnicalTest_VixenRufino\TechnicalTest_VixenRufino\obj\Debug\net8.0\TechnicalTest_VixenRufino.genruntimeconfig.cache
+C:\Users\Chen\source\repos\TechnicalTest_VixenRufino\TechnicalTest_VixenRufino\obj\Debug\net8.0\ref\TechnicalTest_VixenRufino.dll
